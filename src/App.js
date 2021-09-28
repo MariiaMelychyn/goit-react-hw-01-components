@@ -4,6 +4,7 @@ import user from './data/user.json';
 import Statistics from './components/Statistics/Statistics';
 import statisticalData from './data/statistical-data.json';
 
+
 const App = () => {
   return (
     <>
@@ -16,6 +17,7 @@ const App = () => {
     />
     <Statistics title="Upload stats" stats={statisticalData} />
     <Statistics stats={statisticalData} />
+   
         </>
   );
 }
