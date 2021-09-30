@@ -1,8 +1,6 @@
 import PropTypes from 'prop-types';
 import s from '../Statistics/Statistics.module.css';
 
-// import PropTypes from 'prop-types';
-// import s from './statistics.module.css';
 
 const randomColor = () => {
   return (
