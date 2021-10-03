@@ -4,7 +4,7 @@ import user from './data/user.json';
 import Statistics from './components/Statistics/Statistics';
 import statisticalData from './data/statistical-data.json';
 
-import FriendList from './components/Friends/friendsList';
+import FriendList from './components/Friends/FriendsList';
 import friends from './data/friends.json'
 
 
